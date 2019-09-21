@@ -1,0 +1,7 @@
+lxml==3.7.3
+click==6.7
+
+# testing
+pytest==3.0.6
+flake8==3.3.0
+coverage==4.4.1
